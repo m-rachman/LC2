@@ -6,13 +6,13 @@
 
 ## Assignment Objectives
 
-*Live Code 2* ini dibuat guna mengevaluasi konsep Ensemble Learning sebagai berikut:
+*Live Code 2* ini dibuat guna mengevaluasi pemahaman konsep material selama di minggu kedua sebagai berikut:
 
-- Mampu memahami konsep ensemble learning dengan Decision Tree dan Random Forest.
+- Mampu memahami konsep model machine learning yang diberikan di minggu kedua.
 
-- Mampu mempersiapkan data untuk digunakan dalam model Decision Tree dan Random Forest.
+- Mampu mempersiapkan data untuk digunakan dalam model.
 
-- Mampu mengimplementasikan Decision Tree dan Random Forest untuk membuat prediksi.
+- Mampu menjawab pertanyaan analisis yang diberikan
 
 ---
 
