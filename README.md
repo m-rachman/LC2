@@ -84,22 +84,15 @@ Buatlah model Machine Learning untuk memprediksi kemungkinan seseorang karyawan 
 
 ### Lakukan pada bagian Model Evaluation
 1. Analisa hasil prediksi dengan langkah-langkah dibawah ini : 
-   * Lakukan prediksi pada train-set.
-   
-   * Ambil data yang tergolong False Negative.
-   
-   * Jelaskan ciri-ciri dari pasien yang tergolong False Negative ini !
-
-2. Analisa hasil prediksi dengan langkah-langkah dibawah ini : 
    * Lakukan prediksi pada test-set.
    
    * Ambil data yang tergolong False Negative.
    
-   * Jelaskan ciri-ciri dari pasien yang tergolong False Negative ini !
+   * Jelaskan ciri-ciri dari data yang tergolong False Negative ini !
    
    * Berikan analisa dan pernyataan apakah ciri-ciri yang Anda dapatkan sama dengan ciri-ciri pada poin 1 diatas !
 
-3. Apa kelebihan dan kelemahan model yang Anda buat untuk kasus ini ?
+2. Apa kelebihan dan kelemahan model yang Anda buat untuk kasus ini ?
 
 ---
 
