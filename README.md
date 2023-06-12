@@ -52,7 +52,7 @@ Dataset Description : Dataset ini merupakan dataset yang berisi apakah seorang k
 ---
 
 ## Problems
-`ada dua model yang di gunakan, yang pertama adalah` **KNN** `dan yang kedua silahkan anda pilih` **tree based model** `yang tersedia (Decision Trees/Ensemble Learning)` untuk memprediksi kemungkinan seseorang karyawan keluar dari perusahaan IBM menggunakan dataset yang disediakan. Dataset terlampir pada repository dan jawablah pertanyaan dibawah ini.
+`Ada dua model yang di gunakan didalam Live Code ini, yang pertama adalah` **KNN** `dan yang kedua silahkan anda pilih` **tree based model** `yang tersedia (Decision Trees/Ensemble Learning)` untuk memprediksi kemungkinan seseorang karyawan keluar dari perusahaan IBM menggunakan dataset yang disediakan. Dataset terlampir pada repository dan jawablah pertanyaan dibawah ini.
 
 ***Note : Anda diwajibkan untuk menjawab pertanyaan-pertanyaan dibawah ini. Namun, Anda juga dipersilakan untuk melakukan Exploratory Data Analysis (EDA) dan analisa model lainnya pada bagian Model Evaluation diluar pertanyaan yang diminta.***
 
@@ -91,8 +91,10 @@ Dataset Description : Dataset ini merupakan dataset yang berisi apakah seorang k
    
    * Jelaskan ciri-ciri dari data yang tergolong False Negative ini !
 
-2. Apa kelebihan dan kelemahan model yang Anda buat untuk kasus ini ?
+2. Tunjukan dan analisa perbedaan hasil model antara sebelum dilakukan hyperparameter tunning dan sesudah hyperparameter tunning ?
 
+3. Sebutkan Hyperparameter apa yang digunakan beserta alasannya ?
+   
 ---
 
 ## Instruction
@@ -157,7 +159,7 @@ Dataset Description : Dataset ini merupakan dataset yang berisi apakah seorang k
 | Feature Engineering | Mampu melakukan preprocessing dataset sebelum melakukan proses modeling (split data, normalisasi, encoding, dll) | 35 pts |
 | Decision Tree | Mengimplementasikan Decision Tree dan menentukan hyperparameter yang tepat dengan Scikit-Learn | 10 pts |
 | Random Forest | Mengimplementasikan Random Forest dan menentukan hyperparameter yang tepat dengan Scikit-Learn | 10 pts |
-| Hyperparameter Tuning | Mengimplementasikan Hyperparameter Tuning dengan Scikit-Learn | 20 pts |
+| Hyperparameter Tuning | Mengimplementasikan  minimum dua Hyperparameter tunning dari model terbaik dengan menggunakan RandomSearch atau GridSearch  | 20 pts |
 | Model Inference | Mencoba model yang telah dibuat dengan data baru terhadap model yang terbaik dari keseluruhan proses modeling | 10 pts |
 | Runs Perfectly | Kode berjalan tanpa ada error. Seluruh kode berfungsi dan dibuat dengan benar | 10 pts |
 
