@@ -14,6 +14,8 @@
 
 - Mampu menjawab pertanyaan analisis yang diberikan
 
+- Mampu mengimplementasikan teknik Model Improvement yang sesuai
+
 ---
 
 ## Dataset Desciription
