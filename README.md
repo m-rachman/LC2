@@ -50,8 +50,7 @@ Dataset Description : Dataset ini merupakan dataset yang berisi apakah seorang k
 ---
 
 ## Problems
-
-Pilihlah dua model machine learning yang terdiri dari model KNN/Naive Bayes dan model lainnya menggunakan tree based model (Decision Trees/Ensemble Learning) untuk memprediksi kemungkinan seseorang karyawan keluar dari perusahaan IBM menggunakan dataset yang disediakan. Dataset terlampir pada repository dan jawablah pertanyaan dibawah ini.
+`ada dua model yang di gunakan, yang pertama adalah KNN dan yang kedua silahkan anda pilih tree based model (Decision Trees/Ensemble Learning)` untuk memprediksi kemungkinan seseorang karyawan keluar dari perusahaan IBM menggunakan dataset yang disediakan. Dataset terlampir pada repository dan jawablah pertanyaan dibawah ini.
 
 ***Note : Anda diwajibkan untuk menjawab pertanyaan-pertanyaan dibawah ini. Namun, Anda juga dipersilakan untuk melakukan Exploratory Data Analysis (EDA) dan analisa model lainnya pada bagian Model Evaluation diluar pertanyaan yang diminta.***
 
